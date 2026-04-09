@@ -5,4 +5,4 @@ Dockerized Tor Proxy using a script
 ```sudo ./tor-route-all-traffic.sh```
 
 # Restore previous non-tor settings (also removing the container)
-```sudo ./tor-route-all-traffic.sh -restore```
+```sudo ./tor-route-all-traffic.sh -restore``` 
