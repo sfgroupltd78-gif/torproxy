@@ -110,4 +110,4 @@ else
 
     sleep 5
     echo "[#] your ip is now: $(curl https://check.torproject.org |& grep -Po "(?<=strong>)[\d\.]+(?=</strong)")"
-fi
+fi 
